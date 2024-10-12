@@ -1,0 +1,10 @@
+    .box {
+    position: fixed;  
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
